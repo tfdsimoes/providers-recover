@@ -13,6 +13,6 @@ public class ProvidersApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) {
-
+		int idClient = ArgsProcessor.getIdClient(args);
 	}
 }
