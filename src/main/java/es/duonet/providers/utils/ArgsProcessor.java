@@ -5,7 +5,7 @@ package es.duonet.providers;
  */
 public class ArgsProcessor {
 
-    private final static int POSITION_ID_CLIENT = 1;
+    private final static int POSITION_ID_CLIENT = 0;
 
     /**
      * Validate the arguments and retrieve the IDClient from them
