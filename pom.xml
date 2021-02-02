@@ -12,9 +12,9 @@
 
 	<groupId>es.duonet</groupId>
 	<artifactId>providers</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>providers</name>
-	<description>Demo project for Spring Boot</description>
+
 	<properties>
 		<java.version>11</java.version>
 		<mysql-connector.version>8.0.23</mysql-connector.version>

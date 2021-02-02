@@ -1,4 +1,4 @@
-package es.duonet.providers;
+package es.duonet.providers.utils;
 
 /**
  * Class that process the arguments
